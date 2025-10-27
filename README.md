@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Mihir Paresh Mehta</h1>
+<h1 align="center"> Mihir Paresh Mehta</h1>
 <h3 align="center">Full Stack Developer | Passionate Trader | Building the Future, One Line of Code at a Time 💻</h3>
 
 ---
